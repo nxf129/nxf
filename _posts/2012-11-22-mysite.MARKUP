@@ -2,18 +2,12 @@
 
 layout: default
 
-title: 每一篇文章
+title: 执子之手，与子携老
 
 ---
 
 <h2>{{ page.title }}</h2>
 
-<p>Hosting24旗下的000webhost，自称比收费虚拟主机更好的免费空间，他的口碑也确实不错。免费提供250M空间，100G流量，FTP、Web方式上传管理文件，支持PHP5，提供2个MySQL数据库，功能强大的cPanel管理面板，管理面板中可一键安装WordPress、phpBB2、Drupal、Joomla等几种热门PHP程序，免费提供1个二级域名，可以绑定自己的域名，速度不错，无广告。如果不能成功申请请使用VPN代理。
-
-去邮箱收信，点击激活链接激活。
-接下来会收到空间信息资料，打开:http://members.000webhost.com/
-填写注册邮箱、密码登录：
-
-进入控制面板：
+<p>我们开始相爱，至今。。。
 <p>
 {{ page.date date_to_string }}</p>
